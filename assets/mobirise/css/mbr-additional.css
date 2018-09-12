@@ -1639,3 +1639,27 @@ body {
 .cid-r3r1C2ZxqH H2 {
   color: #ffffff;
 }
+.cid-r3sKkrEboW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #000000;
+}
+.cid-r3sKkrEboW .image-block {
+  margin: auto;
+}
+.cid-r3sKkrEboW .mbr-figure {
+  margin: 0 auto;
+}
+.cid-r3sKkrEboW figcaption {
+  position: relative;
+}
+.cid-r3sKkrEboW figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-r3sKkrEboW .image-block {
+    width: 100% !important;
+  }
+}

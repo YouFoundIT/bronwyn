@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bronwyn",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,12 +57,12 @@
         "url": "https://fonts.googleapis.com/css?family=Kaushan+Script:400"
       }
     ],
-    "uniqCompNum": 40,
+    "uniqCompNum": 39,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icons8-heart-outline-filled-100-100x100-1.png",
     "noImageResize": "",
-    "google-analytics": "<!-- Default Statcounter code for Bronwyn\r\nhttps://youfoundit.github.io/bronwyn/ -->\r\n<script type=\"text/javascript\">\r\nvar sc_project=11822502; \r\nvar sc_invisible=1; \r\nvar sc_security=\"adebbc1f\"; \r\nvar sc_https=1; \r\n</script>\r\n<script type=\"text/javascript\"\r\nsrc=\"https://www.statcounter.com/counter/counter.js\"\r\nasync></script>\r\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\r\nMade Easy - StatCounter\" href=\"http://statcounter.com/\"\r\ntarget=\"_blank\"><img class=\"statcounter\"\r\nsrc=\"//c.statcounter.com/11822502/0/adebbc1f/1/\" alt=\"Web\r\nAnalytics Made Easy - StatCounter\"></a></div></noscript>\r\n<!-- End of Statcounter Code -->",
+    "google-analytics": "<!-- Default Statcounter code for Bronwyn\r\nhttps://youfoundit.github.io/bronwyn/ -->\r\n<script type=\"text/javascript\">\r\nvar sc_project=11822502; \r\nvar sc_invisible=1; \r\nvar sc_security=\"adebbc1f\"; \r\nvar sc_https=1; \r\n</script>\r\n<script type=\"text/javascript\"\r\nsrc=\"https://www.statcounter.com/counter/counter.js\"\r\nasync></script>\r\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\r\nMade Easy - StatCounter\" href=\"http://statcounter.com/\"\r\ntarget=\"_blank\"><img class=\"statcounter\"\r\nsrc=\"//c.statcounter.com/11822502/0/adebbc1f/1/\" alt=\"Web\r\nAnalytics Made Easy - StatCounter\"></a></div></noscript>\r\n<!-- End of Statcounter Code -->\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125816372-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125816372-1');\r\n</script>\r\n",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "siteUrl": "",
@@ -735,11 +735,11 @@
           "_name": "image2",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"8\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"8\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/adobe-post-20180914-133949-1709x2560.jpg\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                    Create awesome websites!\n                </div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
           "_cid": "r3CE02AZft",
+          "_anchor": "image2-13",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image2-13"
+          "_params": {}
         },
         {
           "_styles": {

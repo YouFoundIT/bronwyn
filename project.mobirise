@@ -66,7 +66,7 @@
     "uniqCompNum": 68,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/icons8-heart-outline-filled-100-100x100-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/icons8-heart-outline-filled-100-100x100-3.png",
     "noImageResize": "",
     "google-analytics": "<!-- Default Statcounter code for Bronwyn\r\nhttps://youfoundit.github.io/bronwyn/ -->\r\n<script type=\"text/javascript\">\r\nvar sc_project=11822502; \r\nvar sc_invisible=1; \r\nvar sc_security=\"adebbc1f\"; \r\nvar sc_https=1; \r\n</script>\r\n<script type=\"text/javascript\"\r\nsrc=\"https://www.statcounter.com/counter/counter.js\"\r\nasync></script>\r\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\r\nMade Easy - StatCounter\" href=\"http://statcounter.com/\"\r\ntarget=\"_blank\"><img class=\"statcounter\"\r\nsrc=\"//c.statcounter.com/11822502/0/adebbc1f/1/\" alt=\"Web\r\nAnalytics Made Easy - StatCounter\"></a></div></noscript>\r\n<!-- End of Statcounter Code -->\r\n<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125816372-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125816372-1');\r\n</script>\r\n",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",

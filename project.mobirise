@@ -63,7 +63,7 @@
         "url": "https://fonts.googleapis.com/css?family=Kalam:300,400,700"
       }
     ],
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icons8-heart-outline-filled-100-100x100-3.png",
@@ -743,7 +743,7 @@
           "_anchor": "image2-13",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "r3PXTQwLkk",
+          "_cid": "r3PZLCkVcv",
           "_protectedParams": [],
           "_global": false,
           "_once": false,

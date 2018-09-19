@@ -63,7 +63,7 @@
         "url": "https://fonts.googleapis.com/css?family=Kalam:300,400,700"
       }
     ],
-    "uniqCompNum": 40,
+    "uniqCompNum": 39,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/icons8-heart-outline-filled-100-100x100-3.png",
@@ -137,11 +137,11 @@
           "_name": "content10",
           "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"60\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ff3366\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>May your blessings be many\n<div>and your troubles be few.\n</div><div>And may you feel God's presence\n</div><div>in all you say and do.\n</div><br><div><br></div><div>\n</div><div>May your family surround you\n</div><div>and give you reasons to smile.\n</div><div>May your friends and loved ones\n</div><div>go with you an extra mile.\n</div><br><div><br></div><div>\n</div><div>May you know joy and gladness\n</div><div>and have a life of peace.\n</div><div>And may your load grow lighter\n</div><div>and all your cares decrease.\n</div><br><div><br></div><div>\n</div><div>May your sleep be ever so sweet\n</div><div>as you retire each night.\n</div><div>And when you wake each morning,\n</div><div>may your burdens feel light.\n</div><br><div><br></div><div>\n</div><div>May mercy and grace follow you\n</div><div>every minute of every day.\n</div><div>And may you feel the love of God\n</div><div>As you go on your way!\n</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "r454SqVid6",
+          "_anchor": "content10-13",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content10-13"
+          "_params": {}
         },
         {
           "_styles": {
